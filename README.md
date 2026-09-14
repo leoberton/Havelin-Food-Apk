@@ -32,7 +32,7 @@ _Add your application screenshots here._
 
 Example:
 
-![Menu Screen](screenshots/home.png)
+![Menu Screen]([screenshots/home.png](https://github.com/leoberton/Havelin-Food-Apk/blob/main/assets/images/Menu%20screen.jpeg))
 
 ![Cart Screen](<img width="719" height="1600" alt="Cart Page" src="https://github.com/user-attachments/assets/4485bcf2-cdc3-4663-bae8-d81c5401d025" />
 )
