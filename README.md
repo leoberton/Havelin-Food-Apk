@@ -32,11 +32,12 @@ _Add your application screenshots here._
 
 Example:
 
-![Home Screen](screenshots/home.png)
+![Menu Screen](screenshots/home.png)
 
-![Food Menu](screenshots/menu.png)
+![Cart Screen](<img width="719" height="1600" alt="Cart Page" src="https://github.com/user-attachments/assets/4485bcf2-cdc3-4663-bae8-d81c5401d025" />
+)
 
-![Cart](screenshots/cart.png)
+![Profile Screen](screenshots/cart.png)
 
 ## 🚀 Getting Started
 
