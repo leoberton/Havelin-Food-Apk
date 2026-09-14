@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866750688120",
+    "project_id": "havelin-food-apk",
+    "storage_bucket": "havelin-food-apk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866750688120:android:00999f226e90b81f46768d",
+        "android_client_info": {
+          "package_name": "com.havelin.food",
+          "certificate_hash": [
+            "badb704415fa52c9125399b9ccba3004651f0505"
+          ]
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866750688120-android.apps.googleusercontent.com",
+          "client_type": 1,
+          "certificate_hash": "badb704415fa52c9125399b9ccba3004651f0505",
+          "package_name": "com.havelin.food"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLYXlbb9RI7Z-wFpdV07-RbExkOmU0RnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
