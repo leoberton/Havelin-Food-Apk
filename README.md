@@ -32,16 +32,16 @@ _Add your application screenshots here._
 
 Example:
 
-!Menu Screen
+Menu Screen
                <img width="719" height="1600" alt="Menu screen" src="https://github.com/user-attachments/assets/651d65f0-123d-4924-8e89-c3c71239fab0" />
 
 
-!Cart Screen    
+Cart Screen    
                <img width="719" height="1600" alt="Cart Page" src="https://github.com/user-attachments/assets/f3512a48-b1d6-4f61-a72f-7442493ead46" />
 
 
 
-!Profile Screen
+Profile Screen
                <img width="719" height="1600" alt="Profile page" src="https://github.com/user-attachments/assets/a48f88f7-06b8-4004-ac2e-5408b6c55e18" />
 
 ## 🚀 Getting Started
