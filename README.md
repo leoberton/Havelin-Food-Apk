@@ -33,7 +33,7 @@ _Add your application screenshots here._
 Example:
 
 Menu Screen
-               <img width="260" height="1600" alt="Menu screen" src="https://github.com/user-attachments/assets/651d65f0-123d-4924-8e89-c3c71239fab0" />
+               <img width="260" height="1200" alt="Menu screen" src="https://github.com/user-attachments/assets/651d65f0-123d-4924-8e89-c3c71239fab0" />
 
 
 Cart Screen    
